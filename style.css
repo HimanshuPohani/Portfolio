@@ -1,0 +1,224 @@
+body{
+    background-color: black;
+    background-image: url(background.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment:fixed;
+    background-size: cover;
+    margin: 20px;
+ 
+    
+
+    
+ 
+}
+html{
+    scroll-behavior: smooth;
+    
+}
+
+
+
+  
+  .navbar {
+    width: 100%; 
+    text-decoration: none;
+   
+ 
+ 
+ 
+    
+   
+  }
+  
+  .nav-list {
+    list-style: none; /* Remove default list styles */
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center; /* Center items horizontally */
+    align-items: center; /* Center items vertically */
+    height: 60px; /* Set a height for the nav bar */
+    gap: 50px;
+    
+    
+   
+  
+  }
+  
+  .nav-item {
+    margin:  70px; 
+    
+    /* Space between nav items */
+   
+  }
+  
+  .nav-items  {
+    text-decoration: none; /* Remove default link underline */
+    color: #000; /* Text color */
+    font-size: 30px; /* Font size */
+    
+   
+  }
+  #img{
+    float:right;
+    margin-left:50px;
+    display: flow-root;
+    border-radius: 50%;
+    margin-top: -89px;
+    height: 350px;
+    
+    
+    
+    
+    width:350px;
+  }
+ .about{
+    font-size: 26px;
+    color: white;
+    text-align: left;
+    margin-left: 100px;
+    margin-top: 10px;
+    
+ }
+ .h1{
+    font-size: 60px;
+    color:white;
+    text-align: left;
+    margin-left: 100px;
+    margin-top: 150px;
+    
+ }
+ 
+ 
+ .education{
+    font-size: 22px;
+    color: black;
+    text-align: left;
+    margin-left: 100px;
+    margin-top: 10px;
+
+ }
+ #Education{
+    margin-top: 20%;
+    background-color: rgba(173, 189, 241, 0.542);
+    background-size: cover;
+    margin-bottom: 30px;
+
+ }
+.h2{
+    font-size: 40px;
+    color: rgb(3, 3, 73);
+    text-align: left;
+    margin-left: 100px;
+    margin-top: 150px;
+
+}
+.h3{
+    font-size: 40px;
+    color: rgb(100, 0, 68);
+    text-align: left;
+    margin-left: 100px;
+    margin-top: 150px;.background-color: rgba(111,107,107,0.739);
+
+}
+#Experience{
+    margin left: 100px;
+    background-color: rgba(111,107,107,0.739);
+    background-size: cover;
+    margin-bottom: 30px;
+    color: white;
+    margin top: 30px;
+
+}
+.experience{
+    margin-left: 100px;
+    font-size: 22px;
+}
+.h4{
+    font-size: 40px;
+    color:gold;
+    text-align: left;
+    margin-left: 100px;
+    margin-top: 150px;
+    font-family: ;
+}
+#i{
+    display: inline-block;
+    gap: 100px;
+    margin-left: 100px;
+    margin bottom: 20px;
+}
+
+.h5{
+    font-size: 40px;
+    color:darkgreen;
+    text-align: left;
+    margin-left: 100px;
+    margin-top: 150px;
+
+
+}
+#Projects{
+    background-color: rgba(209, 182, 255, 0.738);
+    margin-top: 100px;
+    
+    
+}
+.projects{
+    margin-left:150px ;
+    color:darkgreen;
+    
+}
+#contact{
+    margin left: 100px;
+    background-color: rgba(111,107,107,0.739);
+    background-size: cover;
+    margin-bottom: 30px;
+    
+    margin top: 30px;
+
+}
+
+
+footer{
+    text-align: center;
+    font-size: 15px;
+    color: black;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    
+ 
+    
+ 
+
+    
+    background-color:rgba(173, 189, 241, 0.542) ;
+}
+.h6{
+    text-align: center;
+    gap: 100px;
+}
+.fa-brands.fa-linkedin.fa-3x{
+    color: rgb(6, 6, 93);
+    gap: 100px;
+    margin-right: 50px;
+    
+}
+.fa-regular.fa-envelope.fa-3x{
+    color: rgb(6, 6, 93);
+
+
+
+}
+.fa-brands fa-github fa-xl{
+    margin-left: 100px;
+}
+#gfg{
+    margin-left: 20px;
+    height: 35px;
+
+}
+.icons{
+    
+}
